@@ -1,0 +1,133 @@
+{
+   "checksum": "75933008acd2b1df1ed8b8e2ff9264b7",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13413891057064806",
+            "date_last_used": "0",
+            "guid": "9e1a9501-18c3-47b2-8c4b-cd9b92d316a8",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "CP Algorithm",
+            "type": "url",
+            "url": "https://cp-algorithms.com/navigation.html"
+         }, {
+            "date_added": "13414056140772493",
+            "date_last_used": "0",
+            "guid": "42706e20-4e37-4dd1-a0b6-1318237bfa7c",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Android container",
+            "type": "url",
+            "url": "https://search.brave.com/ask?q=install+waydroid+in+arch&source=quick-answer-followup&quickAnswerKey=08abe12f71b63ebab5cf42333fbab81d4d3e&quickAnswerQuery=install+waydroid+in+arch&conversation=08ab0b19e3ffc00b5b71fe7061fc3186a0ee"
+         }, {
+            "date_added": "13415281592829451",
+            "date_last_used": "13416533804264857",
+            "guid": "a7462543-ab17-4d43-9941-0974c7bbb41d",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Study Material",
+            "type": "url",
+            "url": "https://drive.google.com/drive/folders/11ejN_6ttQXegHnMI6kw0ToxLxZyCJQri"
+         }, {
+            "children": [ {
+               "date_added": "13415572998426260",
+               "date_last_used": "13416079460203644",
+               "guid": "ff47be09-2cad-43f3-8403-a7ac43c00279",
+               "id": "19",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "CineHD",
+               "type": "url",
+               "url": "https://cinehd.cc/"
+            }, {
+               "date_added": "13414434297741386",
+               "date_last_used": "0",
+               "guid": "eb838ee3-67f8-48e8-b613-dfd1beb79c67",
+               "id": "15",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Auto embed",
+               "type": "url",
+               "url": "https://watch-v2.autoembed.cc/"
+            }, {
+               "date_added": "13415573512092330",
+               "date_last_used": "0",
+               "guid": "1b580891-0562-4c19-8cc2-5cfb39334f2c",
+               "id": "21",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Cinegram",
+               "type": "url",
+               "url": "https://cinegram.net/home"
+            }, {
+               "date_added": "13415573773351614",
+               "date_last_used": "0",
+               "guid": "ac9c6573-0646-419b-b318-ee5a3c5ef8ff",
+               "id": "22",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "NetMirror",
+               "type": "url",
+               "url": "https://net22.cc/home"
+            } ],
+            "date_added": "13415573103014376",
+            "date_last_used": "0",
+            "date_modified": "13415744280808372",
+            "guid": "30da4c7c-8e1d-42df-bc28-c75c26cb786d",
+            "id": "20",
+            "name": "Movies Stream",
+            "type": "folder"
+         }, {
+            "date_added": "13415744280808372",
+            "date_last_used": "0",
+            "guid": "782d5107-d9c3-4e34-897f-c87665081dc0",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "CP Guide",
+            "type": "url",
+            "url": "https://www.reddit.com/r/csMajors/comments/z4qjzx/a_guide_to_competitive_programming/"
+         } ],
+         "date_added": "13408960017482106",
+         "date_last_used": "0",
+         "date_modified": "13415744296362978",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13408960017482106",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13408960017482106",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

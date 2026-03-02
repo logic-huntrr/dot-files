@@ -1,0 +1,6 @@
+2026/02/03-02:16:02.327 782f Creating DB /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/WebStorage/68/IndexedDB/indexeddb.leveldb since it was missing.
+2026/02/03-02:16:02.332 782f Reusing MANIFEST /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/WebStorage/68/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2026/02/03-02:26:07.732 7824 Level-0 table #5: started
+2026/02/03-02:26:07.735 7824 Level-0 table #5: 9896 bytes OK
+2026/02/03-02:26:07.739 7824 Delete type=0 #3
+2026/02/03-02:26:07.740 7824 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

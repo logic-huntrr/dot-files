@@ -1,0 +1,12 @@
+2026/03/01-06:04:09.073 f3b Reusing MANIFEST /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/01-06:04:09.074 f3b Recovering log #303
+2026/03/01-06:04:09.081 f3b Reusing old log /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000303.log 
+2026/03/01-06:13:50.414 f2d Level-0 table #308: started
+2026/03/01-06:13:50.432 f2d Level-0 table #308: 1973705 bytes OK
+2026/03/01-06:13:50.437 f2d Delete type=0 #303
+2026/03/01-06:13:59.651 f2d Compacting 1@1 + 1@2 files
+2026/03/01-06:13:59.659 f2d Generated table #309@1: 1811 keys, 161777 bytes
+2026/03/01-06:13:59.659 f2d Compacted 1@1 + 1@2 files => 161777 bytes
+2026/03/01-06:13:59.662 f2d compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/03/01-06:13:59.663 f2d Delete type=2 #305
+2026/03/01-06:13:59.663 f2d Delete type=2 #308

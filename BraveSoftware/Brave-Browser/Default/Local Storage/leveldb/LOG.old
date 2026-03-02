@@ -1,0 +1,9 @@
+2026/03/02-15:20:52.466 5 Reusing MANIFEST /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2026/03/02-15:20:52.473 5 Recovering log #1270
+2026/03/02-15:20:52.473 5 Level-0 table #1273: started
+2026/03/02-15:20:52.476 5 Level-0 table #1273: 19244 bytes OK
+2026/03/02-15:20:52.476 5 Recovering log #1272
+2026/03/02-15:20:52.477 5 Reusing old log /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/001272.log 
+2026/03/02-15:20:52.480 5 Delete type=0 #1270
+2026/03/02-15:23:42.185 9 Level-0 table #1275: started
+2026/03/02-15:23:42.189 9 Level-0 table #1275: 43045 bytes OK

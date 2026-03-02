@@ -1,0 +1,15 @@
+2026/03/01-22:51:51.735 2fad Reusing MANIFEST /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/01-22:51:51.735 2fad Recovering log #11
+2026/03/01-22:51:51.736 2fad Reusing old log /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000011.log 
+2026/03/01-23:19:16.287 2fad Level-0 table #16: started
+2026/03/01-23:19:16.291 2fad Level-0 table #16: 55350 bytes OK
+2026/03/01-23:19:16.294 2fad Delete type=0 #11
+2026/03/01-23:19:16.295 2fad Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/03/01-23:19:16.295 2fad Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x03\x02\x04\x01\x01\x01\x00-' @ 1114 : 1
+2026/03/01-23:19:16.295 2fad Compacting 1@1 + 1@2 files
+2026/03/01-23:19:16.297 2fad Generated table #17@1: 102 keys, 4487 bytes
+2026/03/01-23:19:16.297 2fad Compacted 1@1 + 1@2 files => 4487 bytes
+2026/03/01-23:19:16.301 2fad compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/03/01-23:19:16.301 2fad Delete type=2 #16
+2026/03/01-23:19:16.301 2fad Delete type=2 #13
+2026/03/01-23:19:16.301 2fad Manual compaction at level-1 from '\x00\x02\x03\x02\x04\x01\x01\x01\x00-' @ 1114 : 1 .. (end); will stop at (end)

@@ -1,0 +1,19 @@
+{
+   "author": "agrawal-d@outlook.com",
+   "background": {
+      "service_worker": "dist/backgroundScript.js",
+      "type": "module"
+   },
+   "description": "Codeforces Submit add-on for Competitive Programming Helper.",
+   "homepage_url": "https://github.com/agrawal-d/cph-submit",
+   "host_permissions": [ "http://localhost/*", "https://codeforces.com/*" ],
+   "icons": {
+      "48": "icon-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnjjEkvu1MiNC3ovR26N72bScbM6S/ImyuZZly3Fna5KYmozMIvl1snEvha525t6ldlj7QQCIX57fITJGcHG/gcGsWpkYzbBMpVHwfk3ePXABqp7H72hQ7++AzxLicrWF2IXvcQNq1oykrhYwOrmWaLN5UvPmejCao92uClIBfgdfVUJCWCoK8Rd5QbJkYFGlgwS0NuCUI0AAy4cSRq3QItiKYO79QlNSla95KX5pPF4BLqKnyoucJlv4sbT/Jq0BDpRq/ZadE0DBsUASEj5yUYOgQpjEA4dAU40ETn2jSGVKo0+yIUv/+xLoe/llSiLz/wc5+On/bTmqXNtPezeUiQIDAQAB",
+   "manifest_version": 3,
+   "name": "CPH Submit",
+   "permissions": [ "scripting", "webNavigation" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.4.0"
+}

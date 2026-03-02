@@ -1,0 +1,6 @@
+2026/02/13-18:31:45.379 dbd Creating DB /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.jit.io_0.indexeddb.leveldb since it was missing.
+2026/02/13-18:31:45.385 dbd Reusing MANIFEST /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.jit.io_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/13-18:32:32.781 dbf Level-0 table #5: started
+2026/02/13-18:32:32.784 dbf Level-0 table #5: 812 bytes OK
+2026/02/13-18:32:32.787 dbf Delete type=0 #3
+2026/02/13-18:32:32.788 dbf Manual compaction at level-0 from (begin) .. (end); will stop at (end)

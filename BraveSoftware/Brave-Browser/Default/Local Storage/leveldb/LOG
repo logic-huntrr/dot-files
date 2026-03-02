@@ -1,0 +1,16 @@
+2026/03/02-23:31:26.077 5 Reusing MANIFEST /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2026/03/02-23:31:26.084 5 Recovering log #1272
+2026/03/02-23:31:26.085 5 Level-0 table #1275: started
+2026/03/02-23:31:26.091 5 Level-0 table #1275: 43045 bytes OK
+2026/03/02-23:31:26.091 5 Recovering log #1274
+2026/03/02-23:31:26.092 5 Reusing old log /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/001274.log 
+2026/03/02-23:31:26.095 5 Delete type=0 #1272
+2026/03/02-23:31:26.097 7 Compacting 4@0 + 1@1 files
+2026/03/02-23:31:26.143 7 Generated table #1276@0: 8625 keys, 1786307 bytes
+2026/03/02-23:31:26.143 7 Compacted 4@0 + 1@1 files => 1786307 bytes
+2026/03/02-23:31:26.145 7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/02-23:31:26.145 7 Delete type=2 #1273
+2026/03/02-23:31:26.145 7 Delete type=2 #1269
+2026/03/02-23:31:26.145 7 Delete type=2 #1267
+2026/03/02-23:31:26.145 7 Delete type=2 #1271
+2026/03/02-23:31:26.146 7 Delete type=2 #1275
