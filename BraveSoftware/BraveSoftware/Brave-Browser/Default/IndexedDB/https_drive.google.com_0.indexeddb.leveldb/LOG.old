@@ -1,0 +1,10 @@
+2026/04/30-11:20:48.782 1901 Reusing MANIFEST /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/30-11:20:48.783 1901 Recovering log #75
+2026/04/30-11:20:48.785 1901 Reusing old log /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000075.log 
+2026/04/30-15:18:22.604 1903 Compacting 1@1 + 1@2 files
+2026/04/30-15:18:22.645 1903 Generated table #78@1: 1474 keys, 2121308 bytes
+2026/04/30-15:18:22.650 1903 Generated table #79@1: 97 keys, 75144 bytes
+2026/04/30-15:18:22.650 1903 Compacted 1@1 + 1@2 files => 2196452 bytes
+2026/04/30-15:18:22.653 1903 compacted to: files[ 0 1 4 0 0 0 0 ]
+2026/04/30-15:18:22.654 1903 Delete type=2 #72
+2026/04/30-15:18:22.654 1903 Delete type=2 #76

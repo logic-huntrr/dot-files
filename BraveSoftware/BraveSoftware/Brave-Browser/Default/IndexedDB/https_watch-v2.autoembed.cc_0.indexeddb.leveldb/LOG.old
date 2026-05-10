@@ -1,0 +1,10 @@
+2026/02/04-01:22:38.259 4652 Reusing MANIFEST /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_watch-v2.autoembed.cc_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/04-01:22:38.259 4652 Recovering log #11
+2026/02/04-01:22:38.295 4652 Reusing old log /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_watch-v2.autoembed.cc_0.indexeddb.leveldb/000011.log 
+2026/02/04-01:22:40.329 4654 Level-0 table #16: started
+2026/02/04-01:22:40.360 4654 Level-0 table #16: 772543 bytes OK
+2026/02/04-01:22:40.364 4654 Delete type=0 #11
+2026/02/04-01:22:40.407 4652 Compacting 1@1 + 1@2 files
+2026/02/04-01:22:40.440 4652 Generated table #17@1: 5615 keys, 496951 bytes
+2026/02/04-01:22:40.440 4652 Compacted 1@1 + 1@2 files => 496951 bytes
+2026/02/04-01:22:40.443 4652 compacted to: files[ 0 0 1 0 0 0 0 ]

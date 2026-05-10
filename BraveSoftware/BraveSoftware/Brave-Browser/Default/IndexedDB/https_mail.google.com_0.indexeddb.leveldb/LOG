@@ -1,0 +1,30 @@
+2026/04/14-14:11:02.258 2ea0 Reusing MANIFEST /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/14-14:11:02.258 2ea0 Recovering log #38
+2026/04/14-14:11:02.266 2ea0 Reusing old log /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000038.log 
+2026/04/14-14:11:08.251 2ea0 Compacting 1@1 + 1@2 files
+2026/04/14-14:11:08.268 2ea0 Generated table #41@1: 224 keys, 844843 bytes
+2026/04/14-14:11:08.268 2ea0 Compacted 1@1 + 1@2 files => 844843 bytes
+2026/04/14-14:11:08.271 2ea0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/14-14:11:08.271 2ea0 Delete type=2 #39
+2026/04/14-14:11:08.271 2ea0 Delete type=2 #37
+2026/04/14-14:11:13.834 2ea3 Level-0 table #43: started
+2026/04/14-14:11:13.877 2ea3 Level-0 table #43: 3220879 bytes OK
+2026/04/14-14:11:13.882 2ea3 Delete type=0 #38
+2026/04/14-14:11:31.881 2ea0 Compacting 1@1 + 1@2 files
+2026/04/14-14:11:31.900 2ea0 Generated table #44@1: 226 keys, 861308 bytes
+2026/04/14-14:11:31.900 2ea0 Compacted 1@1 + 1@2 files => 861308 bytes
+2026/04/14-14:11:31.903 2ea0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/14-14:11:31.903 2ea0 Delete type=2 #43
+2026/04/14-14:11:31.903 2ea0 Delete type=2 #41
+2026/04/14-14:13:19.405 2ea0 Level-0 table #46: started
+2026/04/14-14:13:19.444 2ea0 Level-0 table #46: 3196666 bytes OK
+2026/04/14-14:13:19.449 2ea0 Delete type=0 #42
+2026/04/14-14:13:46.225 2ea3 Compacting 1@1 + 1@2 files
+2026/04/14-14:13:46.242 2ea3 Generated table #47@1: 148 keys, 445384 bytes
+2026/04/14-14:13:46.242 2ea3 Compacted 1@1 + 1@2 files => 445384 bytes
+2026/04/14-14:13:46.245 2ea3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/14-14:13:46.246 2ea3 Delete type=2 #46
+2026/04/14-14:13:46.246 2ea3 Delete type=2 #44
+2026/04/14-14:13:46.551 2ea3 Level-0 table #49: started
+2026/04/14-14:13:46.580 2ea3 Level-0 table #49: 3159167 bytes OK
+2026/04/14-14:13:46.583 2ea3 Delete type=0 #45

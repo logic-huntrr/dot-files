@@ -12,26 +12,26 @@
   ],
 "layer": "top",
 "mode": "dock",
-"exclusive": true,
+//"exclusive": true,
 "passthrough": false,
 "position": "top",
 "spacing": 6,
 "fixed-center": true,
 "ipc": true,
 "margin-top": 3,
-"margin-left": 8,
-"margin-right": 8,
+"margin-left": 500,
+"margin-right": 500,
 
 "modules-left": [
 	//"custom/menu",
 	//"custom/separator#blank_2", 
 	"clock",
 	//"custom/separator#blank_2",
-	//"group/notify",
+	"group/notify"
 	//"custom/swaync",
-	"group/notify_idle",
+	//"group/notify_idle",
 	//"custom/separator#blank_2",
-	"mpris",
+	//"mpris",
 	],
 "modules-center": [
 	"hyprland/workspaces#pacman"
@@ -44,7 +44,7 @@
 	//"custom/separator#blank_2",
 	//"idle_inhibitor",
 	"group/laptop",
-	"custom/power",
+	"custom/power"
 	],
 
 }

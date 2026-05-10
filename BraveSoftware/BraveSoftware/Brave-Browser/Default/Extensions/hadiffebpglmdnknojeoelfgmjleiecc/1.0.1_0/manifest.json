@@ -1,0 +1,19 @@
+{
+   "background": {
+      "service_worker": "background.js"
+   },
+   "content_scripts": [ {
+      "js": [ "content.js" ],
+      "matches": [ "*://codeforces.com/*" ]
+   } ],
+   "description": "Find time invested in a particular problem during a contest or otherwise.",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhHPc1P7tkEsaZArv92JeS3Q6gkWi2KRLqR1rJCrXhvl0QBH1gEiTJl+4PbFYPpAVJzZHaa3vHagDpE/XwKMUKcyNkyNWyUyz17YWDgh27siGjh3kaxdDLEJI81UUt3C4mb7Tc7qmqgkL7EAHldmhjKzi73F1BKbNranufw1bmVT2d396uqUAnJgB7XbVFgEDuI+75byz+A0X3LnGhEUVgkLsvN5VDvi8epleCiN8gKqOAeT6jfsfuIZU5ufVJuDIcWXnC4qkF1IE8YiVUihAJIGLHVx5ndhd82LUDWBzFncR0+/EcudMz4JDzgzOLapnXVwvV06E8w0IQk1POcU2iQIDAQAB",
+   "manifest_version": 3,
+   "name": "CF Tracker",
+   "permissions": [ "storage", "tabs" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.1"
+}

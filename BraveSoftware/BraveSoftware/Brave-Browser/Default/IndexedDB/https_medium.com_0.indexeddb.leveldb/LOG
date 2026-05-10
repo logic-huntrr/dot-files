@@ -1,0 +1,7 @@
+2026/05/07-16:18:01.818 1019 Reusing MANIFEST /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_medium.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/07-16:18:01.818 1019 Recovering log #3
+2026/05/07-16:18:01.820 1019 Reusing old log /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_medium.com_0.indexeddb.leveldb/000003.log 
+2026/05/07-16:18:20.425 1019 Level-0 table #5: started
+2026/05/07-16:18:20.429 1019 Level-0 table #5: 23725 bytes OK
+2026/05/07-16:18:20.432 1019 Delete type=0 #3
+2026/05/07-16:18:20.433 1019 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

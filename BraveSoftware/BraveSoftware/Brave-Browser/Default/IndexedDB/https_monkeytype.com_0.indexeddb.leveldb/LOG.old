@@ -1,0 +1,17 @@
+2026/03/03-00:25:31.068 3888 Reusing MANIFEST /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/03-00:25:31.069 3888 Recovering log #4
+2026/03/03-00:25:31.069 3888 Reusing old log /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/000004.log 
+2026/03/03-00:25:31.097 3888 Level-0 table #8: started
+2026/03/03-00:25:31.099 3888 Level-0 table #8: 1940 bytes OK
+2026/03/03-00:25:31.101 3888 Delete type=0 #4
+2026/03/03-00:25:31.101 3888 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/03/03-00:26:36.565 3888 Level-0 table #10: started
+2026/03/03-00:26:36.567 3888 Level-0 table #10: 944 bytes OK
+2026/03/03-00:26:36.570 3888 Delete type=0 #7
+2026/03/03-00:26:36.570 3897 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 205 : 1
+2026/03/03-00:26:36.570 3897 Compacting 1@0 + 1@1 files
+2026/03/03-00:26:36.571 3897 Generated table #11@0: 56 keys, 1499 bytes
+2026/03/03-00:26:36.571 3897 Compacted 1@0 + 1@1 files => 1499 bytes
+2026/03/03-00:26:36.574 3897 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/03-00:26:36.574 3897 Delete type=2 #10
+2026/03/03-00:26:36.574 3888 Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 205 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

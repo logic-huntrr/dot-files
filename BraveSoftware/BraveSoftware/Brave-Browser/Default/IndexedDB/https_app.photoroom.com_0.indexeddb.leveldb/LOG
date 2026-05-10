@@ -1,0 +1,28 @@
+2026/04/05-16:15:25.870 1816 Creating DB /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.photoroom.com_0.indexeddb.leveldb since it was missing.
+2026/04/05-16:15:25.875 1816 Reusing MANIFEST /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.photoroom.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/05-16:15:25.897 1816 Level-0 table #5: started
+2026/04/05-16:15:25.899 1816 Level-0 table #5: 1407 bytes OK
+2026/04/05-16:15:25.901 1816 Delete type=0 #3
+2026/04/05-16:15:25.901 1816 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/04/05-16:15:25.901 1816 Level-0 table #7: started
+2026/04/05-16:15:25.902 1816 Level-0 table #7: 693 bytes OK
+2026/04/05-16:15:25.904 1816 Delete type=0 #4
+2026/04/05-16:15:25.904 1816 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/04/05-16:15:25.904 1816 Manual compaction at level-1 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x00\x00\x05' @ 74 : 1
+2026/04/05-16:15:25.904 1816 Compacting 1@1 + 1@2 files
+2026/04/05-16:15:25.905 1816 Generated table #8@1: 26 keys, 781 bytes
+2026/04/05-16:15:25.905 1816 Compacted 1@1 + 1@2 files => 781 bytes
+2026/04/05-16:15:25.907 1816 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/05-16:15:25.907 1816 Delete type=2 #7
+2026/04/05-16:15:25.907 1816 Manual compaction at level-1 from '\x00\x04\x00\x00\x05' @ 74 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/04/05-16:15:26.428 1826 Level-0 table #10: started
+2026/04/05-16:15:26.430 1826 Level-0 table #10: 5548 bytes OK
+2026/04/05-16:15:26.433 1826 Delete type=2 #5
+2026/04/05-16:15:26.433 1826 Delete type=0 #6
+2026/04/05-16:15:26.433 1818 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/04/05-16:16:37.105 1818 Compacting 1@1 + 1@2 files
+2026/04/05-16:16:37.126 1818 Generated table #11@1: 115 keys, 2138 bytes
+2026/04/05-16:16:37.126 1818 Compacted 1@1 + 1@2 files => 2138 bytes
+2026/04/05-16:16:37.129 1818 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/05-16:16:37.130 1818 Delete type=2 #8
+2026/04/05-16:16:37.130 1818 Delete type=2 #10

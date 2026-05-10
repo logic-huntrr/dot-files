@@ -1,0 +1,39 @@
+2026/05/09-23:34:47.373 5 Reusing MANIFEST /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2026/05/09-23:34:47.374 5 Recovering log #1676
+2026/05/09-23:34:47.375 5 Reusing old log /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/Session Storage/001676.log 
+2026/05/09-23:34:47.866 5 Level-0 table #1680: started
+2026/05/09-23:34:47.869 5 Level-0 table #1680: 29875 bytes OK
+2026/05/09-23:34:47.872 5 Delete type=0 #1676
+2026/05/09-23:51:55.239 7 Level-0 table #1682: started
+2026/05/09-23:51:55.243 7 Level-0 table #1682: 57103 bytes OK
+2026/05/09-23:51:55.247 7 Delete type=0 #1679
+2026/05/09-23:51:55.248 7 Compacting 4@0 + 1@1 files
+2026/05/09-23:51:55.272 7 Generated table #1683@0: 39328 keys, 755070 bytes
+2026/05/09-23:51:55.272 7 Compacted 4@0 + 1@1 files => 755070 bytes
+2026/05/09-23:51:55.276 7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/09-23:51:55.277 7 Delete type=2 #1675
+2026/05/09-23:51:55.277 7 Delete type=2 #1680
+2026/05/09-23:51:55.277 7 Delete type=2 #1672
+2026/05/09-23:51:55.277 7 Delete type=2 #1682
+2026/05/09-23:51:55.277 7 Delete type=2 #1677
+2026/05/10-00:36:56.504 7 Level-0 table #1685: started
+2026/05/10-00:36:56.511 7 Level-0 table #1685: 53897 bytes OK
+2026/05/10-00:36:56.518 7 Delete type=0 #1681
+2026/05/10-00:48:48.529 5 Level-0 table #1687: started
+2026/05/10-00:48:48.535 5 Level-0 table #1687: 54143 bytes OK
+2026/05/10-00:48:48.540 5 Delete type=0 #1684
+2026/05/10-00:49:39.460 5 Level-0 table #1689: started
+2026/05/10-00:49:39.467 5 Level-0 table #1689: 53870 bytes OK
+2026/05/10-00:49:39.473 5 Delete type=0 #1686
+2026/05/10-01:09:45.925 5 Level-0 table #1691: started
+2026/05/10-01:09:45.931 5 Level-0 table #1691: 56338 bytes OK
+2026/05/10-01:09:45.936 5 Delete type=0 #1688
+2026/05/10-01:09:45.936 5 Compacting 4@0 + 1@1 files
+2026/05/10-01:09:45.967 5 Generated table #1692@0: 39515 keys, 968059 bytes
+2026/05/10-01:09:45.967 5 Compacted 4@0 + 1@1 files => 968059 bytes
+2026/05/10-01:09:45.971 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/10-01:09:45.972 5 Delete type=2 #1689
+2026/05/10-01:09:45.972 5 Delete type=2 #1687
+2026/05/10-01:09:45.972 5 Delete type=2 #1685
+2026/05/10-01:09:45.972 5 Delete type=2 #1691
+2026/05/10-01:09:45.972 5 Delete type=2 #1683

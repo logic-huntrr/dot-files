@@ -1,0 +1,10 @@
+2026/03/22-13:52:55.393 e01 Creating DB /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_unstop.com_0.indexeddb.leveldb since it was missing.
+2026/03/22-13:52:55.400 e01 Reusing MANIFEST /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_unstop.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/22-13:52:55.804 e0f Level-0 table #5: started
+2026/03/22-13:52:55.806 e0f Level-0 table #5: 1261 bytes OK
+2026/03/22-13:52:55.810 e0f Delete type=0 #3
+2026/03/22-13:52:55.810 dff Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/03/22-13:54:17.771 e01 Level-0 table #7: started
+2026/03/22-13:54:17.774 e01 Level-0 table #7: 2136 bytes OK
+2026/03/22-13:54:17.777 e01 Delete type=0 #4
+2026/03/22-13:54:17.778 e01 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

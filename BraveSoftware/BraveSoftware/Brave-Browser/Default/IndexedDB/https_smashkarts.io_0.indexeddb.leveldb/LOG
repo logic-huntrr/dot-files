@@ -1,0 +1,27 @@
+2026/03/01-04:35:02.369 d94 Reusing MANIFEST /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_smashkarts.io_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/01-04:35:02.369 d94 Recovering log #82
+2026/03/01-04:35:02.386 d94 Reusing old log /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_smashkarts.io_0.indexeddb.leveldb/000082.log 
+2026/03/01-04:35:02.386 d94 Delete type=2 #83
+2026/03/01-04:35:02.386 d94 Delete type=2 #81
+2026/03/01-04:35:02.398 d96 Level-0 table #87: started
+2026/03/01-04:35:02.415 d96 Level-0 table #87: 424534 bytes OK
+2026/03/01-04:35:02.419 d96 Delete type=0 #82
+2026/03/01-04:35:02.419 d94 Manual compaction at level-0 from '\x00\x19\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/03/01-04:35:02.478 d94 Compacting 1@1 + 1@2 files
+2026/03/01-04:35:02.502 d94 Generated table #88@1: 4630 keys, 477208 bytes
+2026/03/01-04:35:02.502 d94 Compacted 1@1 + 1@2 files => 477208 bytes
+2026/03/01-04:35:02.506 d94 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/03/01-04:41:42.489 d87 Level-0 table #90: started
+2026/03/01-04:41:42.496 d87 Level-0 table #90: 448888 bytes OK
+2026/03/01-04:41:42.500 d87 Delete type=2 #84
+2026/03/01-04:41:42.500 d87 Delete type=2 #87
+2026/03/01-04:41:42.500 d87 Delete type=0 #86
+2026/03/01-04:41:42.501 d87 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/03/01-04:41:42.501 d87 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x08\x01\x1f\x02\x00`\xafBh\xcayB\x00\x01\x86\x01\x00/\x00i\x00d\x00b\x00f\x00s\x00/\x00e\x00b\x003\x00d\x001\x00d\x005\x00a\x007\x009\x009\x00d\x00c\x004\x00f\x00f\x00d\x00e\x006\x002\x00f\x000\x003\x00b\x00d\x008\x005\x006\x006\x00e\x002\x007\x00/\x00U\x00n\x00i\x00t\x00y\x00/\x000\x00d\x00c\x008\x00e\x00f\x007\x007\x00-\x00a\x005\x004\x003\x00-\x004\x003\x003\x00b\x00-\x00b\x00b\x000\x001\x00-\x00a\x00c\x000\x00a\x000\x002\x00b\x009\x006\x00d\x00b\x009\x00/\x00A\x00n\x00a\x00l\x00y\x00t\x00i\x00c\x00s\x00/\x00A\x00r\x00c\x00h\x00i\x00v\x00e\x00d\x00E\x00v\x00e\x00n\x00t\x00s\x00/\x001\x007\x007\x002\x003\x001\x009\x009\x000\x006\x000\x000\x000\x000\x003\x00.\x006\x003\x003\x003\x000\x00a\x006\x003\x00/\x00e' @ 131067 : 1
+2026/03/01-04:41:42.501 d87 Compacting 1@1 + 1@2 files
+2026/03/01-04:41:42.514 d87 Generated table #91@1: 4419 keys, 456142 bytes
+2026/03/01-04:41:42.514 d87 Compacted 1@1 + 1@2 files => 456142 bytes
+2026/03/01-04:41:42.517 d87 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/03/01-04:41:42.517 d87 Delete type=2 #88
+2026/03/01-04:41:42.518 d87 Delete type=2 #90
+2026/03/01-04:41:42.518 d87 Manual compaction at level-1 from '\x00\x08\x01\x1f\x02\x00`\xafBh\xcayB\x00\x01\x86\x01\x00/\x00i\x00d\x00b\x00f\x00s\x00/\x00e\x00b\x003\x00d\x001\x00d\x005\x00a\x007\x009\x009\x00d\x00c\x004\x00f\x00f\x00d\x00e\x006\x002\x00f\x000\x003\x00b\x00d\x008\x005\x006\x006\x00e\x002\x007\x00/\x00U\x00n\x00i\x00t\x00y\x00/\x000\x00d\x00c\x008\x00e\x00f\x007\x007\x00-\x00a\x005\x004\x003\x00-\x004\x003\x003\x00b\x00-\x00b\x00b\x000\x001\x00-\x00a\x00c\x000\x00a\x000\x002\x00b\x009\x006\x00d\x00b\x009\x00/\x00A\x00n\x00a\x00l\x00y\x00t\x00i\x00c\x00s\x00/\x00A\x00r\x00c\x00h\x00i\x00v\x00e\x00d\x00E\x00v\x00e\x00n\x00t\x00s\x00/\x001\x007\x007\x002\x003\x001\x009\x009\x000\x006\x000\x000\x000\x000\x003\x00.\x006\x003\x003\x003\x000\x00a\x006\x003\x00/\x00e' @ 131067 : 1 .. (end); will stop at (end)

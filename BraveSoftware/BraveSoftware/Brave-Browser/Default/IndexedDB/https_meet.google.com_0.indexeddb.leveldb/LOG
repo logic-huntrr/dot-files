@@ -1,0 +1,6 @@
+2026/04/03-16:17:10.513 b6b Reusing MANIFEST /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/03-16:17:10.513 b6b Recovering log #19
+2026/04/03-16:17:10.522 b6b Reusing old log /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/000019.log 
+2026/04/03-16:31:52.599 b6e Level-0 table #24: started
+2026/04/03-16:31:52.617 b6e Level-0 table #24: 3944684 bytes OK
+2026/04/03-16:31:52.623 b6e Delete type=0 #19

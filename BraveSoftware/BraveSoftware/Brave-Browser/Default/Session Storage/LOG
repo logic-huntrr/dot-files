@@ -1,0 +1,7 @@
+2026/05/10-17:07:46.783 5 Reusing MANIFEST /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2026/05/10-17:07:46.786 5 Recovering log #1690
+2026/05/10-17:07:46.787 5 Level-0 table #1694: started
+2026/05/10-17:07:46.789 5 Level-0 table #1694: 30076 bytes OK
+2026/05/10-17:07:46.790 5 Recovering log #1693
+2026/05/10-17:07:46.791 5 Reusing old log /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/Session Storage/001693.log 
+2026/05/10-17:07:46.795 5 Delete type=0 #1690

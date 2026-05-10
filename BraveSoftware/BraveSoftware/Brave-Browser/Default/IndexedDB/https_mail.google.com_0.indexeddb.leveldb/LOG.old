@@ -1,0 +1,48 @@
+2026/04/10-23:27:52.724 1105 Reusing MANIFEST /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/10-23:27:52.724 1105 Recovering log #23
+2026/04/10-23:27:52.727 1105 Reusing old log /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000023.log 
+2026/04/10-23:27:59.493 1105 Compacting 1@0 + 1@1 files
+2026/04/10-23:27:59.524 1105 Generated table #26@0: 1643 keys, 2320041 bytes
+2026/04/10-23:27:59.553 1105 Generated table #27@0: 187 keys, 997300 bytes
+2026/04/10-23:27:59.553 1105 Compacted 1@0 + 1@1 files => 3317341 bytes
+2026/04/10-23:27:59.556 1105 compacted to: files[ 0 2 1 0 0 0 0 ]
+2026/04/10-23:27:59.557 1105 Delete type=2 #22
+2026/04/10-23:27:59.558 1105 Delete type=2 #24
+2026/04/10-23:28:53.283 1105 Expanding@1 1+1 (2320041+270117 bytes) to 2+1 (3317341+270117 bytes)
+2026/04/10-23:28:53.284 1105 Compacting 2@1 + 1@2 files
+2026/04/10-23:28:53.305 1105 Generated table #28@1: 256 keys, 1126321 bytes
+2026/04/10-23:28:53.305 1105 Compacted 2@1 + 1@2 files => 1126321 bytes
+2026/04/10-23:28:53.309 1105 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/10-23:28:53.309 1105 Delete type=2 #17
+2026/04/10-23:28:53.309 1105 Delete type=2 #27
+2026/04/10-23:28:53.310 1105 Delete type=2 #26
+2026/04/10-23:29:00.250 1107 Level-0 table #30: started
+2026/04/10-23:29:00.278 1107 Level-0 table #30: 3171772 bytes OK
+2026/04/10-23:29:00.283 1107 Delete type=0 #23
+2026/04/10-23:29:13.252 1107 Compacting 1@1 + 1@2 files
+2026/04/10-23:29:13.267 1107 Generated table #31@1: 194 keys, 508684 bytes
+2026/04/10-23:29:13.267 1107 Compacted 1@1 + 1@2 files => 508684 bytes
+2026/04/10-23:29:13.270 1107 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/10-23:30:27.515 1107 Level-0 table #33: started
+2026/04/10-23:30:27.566 1107 Level-0 table #33: 3246623 bytes OK
+2026/04/10-23:30:27.570 1107 Delete type=0 #29
+2026/04/10-23:30:27.570 1107 Delete type=2 #28
+2026/04/10-23:30:27.570 1107 Delete type=2 #30
+2026/04/10-23:31:16.811 1105 Compacting 1@1 + 1@2 files
+2026/04/10-23:31:16.830 1105 Generated table #34@1: 255 keys, 935990 bytes
+2026/04/10-23:31:16.830 1105 Compacted 1@1 + 1@2 files => 935990 bytes
+2026/04/10-23:31:16.833 1105 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/10-23:31:16.834 1105 Delete type=2 #33
+2026/04/10-23:31:16.834 1105 Delete type=2 #31
+2026/04/10-23:31:35.642 1107 Level-0 table #36: started
+2026/04/10-23:31:35.670 1107 Level-0 table #36: 3221888 bytes OK
+2026/04/10-23:31:35.675 1107 Delete type=0 #32
+2026/04/10-23:32:03.326 1114 Compacting 1@1 + 1@2 files
+2026/04/10-23:32:03.354 1114 Generated table #37@1: 244 keys, 1050644 bytes
+2026/04/10-23:32:03.354 1114 Compacted 1@1 + 1@2 files => 1050644 bytes
+2026/04/10-23:32:03.358 1114 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/10-23:32:03.359 1114 Delete type=2 #36
+2026/04/10-23:32:03.359 1114 Delete type=2 #34
+2026/04/10-23:32:13.827 1107 Level-0 table #39: started
+2026/04/10-23:32:13.863 1107 Level-0 table #39: 3206867 bytes OK
+2026/04/10-23:32:13.868 1107 Delete type=0 #35

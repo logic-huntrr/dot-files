@@ -1,0 +1,6 @@
+2026/04/19-19:40:43.790 ac09 Creating DB /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.veed.io_0.indexeddb.leveldb since it was missing.
+2026/04/19-19:40:43.798 ac09 Reusing MANIFEST /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.veed.io_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/19-19:40:45.219 ac18 Level-0 table #5: started
+2026/04/19-19:40:45.223 ac18 Level-0 table #5: 1935 bytes OK
+2026/04/19-19:40:45.227 ac18 Delete type=0 #3
+2026/04/19-19:40:45.227 ac09 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

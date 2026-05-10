@@ -1,0 +1,31 @@
+2026/02/20-00:17:22.012 f69 Reusing MANIFEST /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_smashkarts.io_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/20-00:17:22.013 f69 Recovering log #72
+2026/02/20-00:17:22.013 f69 Reusing old log /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_smashkarts.io_0.indexeddb.leveldb/000072.log 
+2026/02/20-00:17:22.024 f76 Level-0 table #77: started
+2026/02/20-00:17:22.027 f76 Level-0 table #77: 8796 bytes OK
+2026/02/20-00:17:22.030 f76 Delete type=0 #72
+2026/02/20-00:17:22.031 f67 Manual compaction at level-0 from '\x00\x16\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/02/20-00:17:22.068 f69 Compacting 1@1 + 1@2 files
+2026/02/20-00:17:22.082 f69 Generated table #78@1: 4233 keys, 429393 bytes
+2026/02/20-00:17:22.082 f69 Compacted 1@1 + 1@2 files => 429393 bytes
+2026/02/20-00:17:22.085 f69 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/02/20-00:18:28.856 f77 Level-0 table #80: started
+2026/02/20-00:18:28.870 f77 Level-0 table #80: 398227 bytes OK
+2026/02/20-00:18:28.873 f77 Delete type=2 #77
+2026/02/20-00:18:28.873 f77 Delete type=2 #74
+2026/02/20-00:18:28.874 f77 Delete type=0 #76
+2026/02/20-00:18:28.874 f69 Manual compaction at level-0 from '\x00\x17\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x18\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/02/20-00:18:28.894 f69 Compacting 1@1 + 1@2 files
+2026/02/20-00:18:28.920 f69 Generated table #81@1: 4331 keys, 439399 bytes
+2026/02/20-00:18:28.920 f69 Compacted 1@1 + 1@2 files => 439399 bytes
+2026/02/20-00:18:28.924 f69 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/02/20-00:33:16.053 f76 Level-0 table #83: started
+2026/02/20-00:33:16.068 f76 Level-0 table #83: 422864 bytes OK
+2026/02/20-00:33:16.072 f76 Delete type=0 #79
+2026/02/20-00:33:16.072 f76 Delete type=2 #78
+2026/02/20-00:33:16.072 f76 Delete type=2 #80
+2026/02/20-00:33:16.073 f76 Manual compaction at level-0 from '\x00\x18\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x19\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/02/20-00:33:16.095 f76 Compacting 1@1 + 1@2 files
+2026/02/20-00:33:16.122 f76 Generated table #84@1: 4472 keys, 456686 bytes
+2026/02/20-00:33:16.122 f76 Compacted 1@1 + 1@2 files => 456686 bytes
+2026/02/20-00:33:16.125 f76 compacted to: files[ 0 0 1 0 0 0 0 ]

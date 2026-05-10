@@ -1,0 +1,4 @@
+2026/05/07-15:56:37.708 1017 Reusing MANIFEST /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.fotor.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/07-15:56:37.708 1017 Recovering log #3
+2026/05/07-15:56:37.708 1017 Reusing old log /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.fotor.com_0.indexeddb.leveldb/000003.log 
+2026/05/07-15:56:37.783 1026 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

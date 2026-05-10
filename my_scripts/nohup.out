@@ -1,0 +1,1 @@
+[0.277] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop

@@ -1,0 +1,6 @@
+2026/05/06-21:32:44.426 e8c Reusing MANIFEST /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/06-21:32:44.426 e8c Recovering log #3
+2026/05/06-21:32:44.428 e8c Reusing old log /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000003.log 
+2026/05/06-22:20:44.888 e7d Level-0 table #5: started
+2026/05/06-22:20:44.912 e7d Level-0 table #5: 1648997 bytes OK
+2026/05/06-22:20:44.915 e7d Delete type=0 #3

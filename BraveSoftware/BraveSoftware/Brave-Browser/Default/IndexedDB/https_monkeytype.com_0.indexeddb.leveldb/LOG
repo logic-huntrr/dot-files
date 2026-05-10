@@ -1,0 +1,25 @@
+2026/04/21-02:56:38.703 268d Reusing MANIFEST /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/21-02:56:38.703 268d Recovering log #9
+2026/04/21-02:56:38.704 268d Reusing old log /home/vegeta/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/000009.log 
+2026/04/21-02:56:38.704 268d Delete type=2 #8
+2026/04/21-02:56:38.720 268d Level-0 table #14: started
+2026/04/21-02:56:38.722 268d Level-0 table #14: 941 bytes OK
+2026/04/21-02:56:38.725 268d Delete type=0 #9
+2026/04/21-02:56:38.725 268d Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 238 : 1
+2026/04/21-02:56:38.725 268d Compacting 1@0 + 1@1 files
+2026/04/21-02:56:38.726 268d Generated table #15@0: 57 keys, 1511 bytes
+2026/04/21-02:56:38.726 268d Compacted 1@0 + 1@1 files => 1511 bytes
+2026/04/21-02:56:38.728 268d compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/21-02:56:38.728 268d Delete type=2 #14
+2026/04/21-02:56:38.729 268d Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 238 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/04/21-02:57:31.774 2698 Level-0 table #17: started
+2026/04/21-02:57:31.776 2698 Level-0 table #17: 1463 bytes OK
+2026/04/21-02:57:31.779 2698 Delete type=0 #13
+2026/04/21-02:57:31.779 2698 Delete type=2 #11
+2026/04/21-02:57:31.780 2689 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 283 : 1
+2026/04/21-02:57:31.780 2689 Compacting 1@0 + 1@1 files
+2026/04/21-02:57:31.782 2689 Generated table #18@0: 68 keys, 1648 bytes
+2026/04/21-02:57:31.782 2689 Compacted 1@0 + 1@1 files => 1648 bytes
+2026/04/21-02:57:31.785 2689 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/21-02:57:31.785 2689 Delete type=2 #17
+2026/04/21-02:57:31.785 2699 Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 283 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
